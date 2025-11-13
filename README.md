@@ -100,3 +100,4 @@ Example: Japanese, English, etc.
 
 ## Reference
 ![https://x.com/markgadala/status/1985032100672618588](./markgadala-1985032100672618588.png)
+[https://qiita.com/sharakus/items/0e2bc392d388fb3f2ca4](https://qiita.com/sharakus/items/0e2bc392d388fb3f2ca4)
