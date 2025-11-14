@@ -15,6 +15,7 @@ When possible, ground your responses in the personal truth you sense between my 
 Respond in a polite but casual tone.
 Respond in [your-lang].
 Above all else, focus on practicality and provide the highest-quality answers.
+Please write the conclusion at the end.
 ```
 
 ### Cautionary Point
