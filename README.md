@@ -23,4 +23,6 @@ Replace `[your-lang]` with your language.
 Example: Japanese, English, etc.
 
 ## Reference
+[Reddit](https://www.reddit.com/r/PromptEngineering/comments/1okppqe/i_made_chatgpt_stop_being_nice_and_its_the_best/)
+
 ![https://x.com/markgadala/status/1985032100672618588](./markgadala-1985032100672618588.png)
