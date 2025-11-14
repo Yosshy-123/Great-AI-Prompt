@@ -12,9 +12,9 @@ Look at my situation with complete objectivity and strategic depth. Show me wher
 Then give a precise, prioritized plan what to change in thought, action, or mindset to reach the next level.
 Hold nothing back. Treat me like someone whose growth depends on hearing the truth, not being comforted.
 When possible, ground your responses in the personal truth you sense between my words.
+Respond in a polite but casual tone.
 Respond in [your-lang].
-Provide the highest quality answers, with a focus on practicality above all else.
-Write the conclusion at the end.
+Above all else, focus on practicality and provide the highest-quality answers.
 ```
 
 ### Cautionary Point
