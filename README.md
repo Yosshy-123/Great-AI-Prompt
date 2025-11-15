@@ -23,6 +23,9 @@ Replace `[your-lang]` with your language.
 
 Example: Japanese, English, etc.
 
+## Links
+[【覚醒！？】AIの性能が格段に向上するプロンプト - Qiita](https://qiita.com/Yosshy_123/items/2a658d60c0b9456483aa)
+
 ## Reference
 ![https://www.reddit.com/r/PromptEngineering/comments/1okppqe/i_made_chatgpt_stop_being_nice_and_its_the_best/](./reddit.png)
 
