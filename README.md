@@ -27,6 +27,6 @@ Example: Japanese, English, etc.
 [【覚醒！？】AIの性能が格段に向上するプロンプト - Qiita](https://qiita.com/Yosshy_123/items/2a658d60c0b9456483aa)
 
 ## Reference
-![https://www.reddit.com/r/PromptEngineering/comments/1okppqe/i_made_chatgpt_stop_being_nice_and_its_the_best/](./reddit.png)
+[![Reddit](./reddit.png)](https://www.reddit.com/r/PromptEngineering/comments/1okppqe/i_made_chatgpt_stop_being_nice_and_its_the_best/)
 
-![https://x.com/markgadala/status/1985032100672618588](./markgadala-1985032100672618588.png)
+[![X](./markgadala-1985032100672618588.png)](https://x.com/markgadala/status/1985032100672618588)
